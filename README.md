@@ -57,7 +57,5 @@ Welcome to my GitHub! I'm a passionate Computer Science student with a knack for
 
 ## 💬 Let's Connect!  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-augusto-scarsi/)  
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuizScarsi)  
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luizaugustoscarsi@gmail.com)  
 
 ---
