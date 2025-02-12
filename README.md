@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Luiz Augusto Scarsi
 
-🚀 **Software Developer** | 💻 Backend Enthusiast | 🤖 GenAI Explorer | 🛠️ DevOps Advocate  
+🚀 **Software Developer** | 💻 Backend | 🤖 GenAI | 🛠️ DevOps  
 
-Welcome to my GitHub! I'm a passionate Computer Science student with a knack for developing scalable systems, crafting GenAI applications, and streamlining workflows with DevOps tools. I thrive on teamwork, continuous learning, and leveraging my skills to create impactful solutions.
+Welcome to my GitHub! I'm a Computer Science student with a knack for developing scalable systems, crafting GenAI applications, and streamlining workflows with DevOps tools. I thrive on teamwork, continuous learning, and leveraging my skills to create impactful solutions.
 
 ---
 
