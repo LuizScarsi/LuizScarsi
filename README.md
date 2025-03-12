@@ -16,6 +16,7 @@ Welcome to my GitHub! I'm a Computer Science student passionate about software d
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-005AE0?style=flat-square&logo=chainlink&logoColor=white)
 ![Max/MSP](https://img.shields.io/badge/-Max/MSP-000000?style=flat-square&logo=max&logoColor=white)
 ![SuperCollider](https://img.shields.io/badge/-SuperCollider-5A5A5A?style=flat-square&logo=supercollider&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -28,7 +29,7 @@ Welcome to my GitHub! I'm a Computer Science student passionate about software d
 
 ## 🏆 Highlights  
 - 🏫 IT teaching experience at EEB Gomes Carneiro.  
-- 🌟 Professional experience developing GenAI applications with AWS since 2023.  
+- 🌟 Professional experience developing GenAI applications since 2023.  
 - 🛡️ AWS Certified AI Practitioner and competitive programming enthusiast.  
 
 ---
